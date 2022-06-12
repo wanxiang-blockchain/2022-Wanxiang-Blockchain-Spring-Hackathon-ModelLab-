@@ -1,6 +1,5 @@
 # 2022-Wanxiang-Blockchain-Spring-Hackathon-ModelLab-BlockModel
-**Tokenmics Made Easy. A web workspace and decentralized protocol for the design and optimization of Tokenmics.**   
-Smart Contracts: https://github.com/Web3Models/Modelin-contract   
+**Tokenmics Made Easy. A web workspace and decentralized protocol for the design and optimization of Tokenmics.**    
 Demo Video: https://youtu.be/gtimnKbfId0   
 ## Inspiration
 At the very begining of this project, we were aware of two typical and obvious phenomenon:
